@@ -5,7 +5,7 @@ def speak_to_grandma('I LOVE YOU GRANDMA!')
   else 
     puts "grandma can't hear you"
   end
-  return HUH?! SPEAK UP, SONNY!""
+  return ""
 end
 
 # Whatever you say to grandma, she should respond with
