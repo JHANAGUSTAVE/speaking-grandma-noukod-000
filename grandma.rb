@@ -4,6 +4,7 @@ def speak_to_grandma(phrase = 'I LOVE YOU GRANDMA!')
     puts "HUH?! SPEAK UP, SONNY"
   else 
     puts "grandma can't hear you"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
